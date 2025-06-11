@@ -1,0 +1,39 @@
+{
+  "Formats":"
+  [
+    "FormatName" : "Western",  
+    "Banned Cards":
+    [
+      "Id":"ST06-015", //Great Erruption
+      "Id":"ST10-001",// Trafalgar Law Leader
+      "Id":"EB01-059",// Kingdom Come
+      "Id":"OP02-024",
+      "Id":"OP02-052",
+      "Id":"OP02-117",
+      "Id":"OP03-098",
+      "Id":"OP05-041",
+      "Id":"OP06-086",
+      "Id":"OP06-116",
+      "Id":"OP07-045",
+      "Id":"P-JOK",
+      "Id":"P-999",
+      "Id":"P-040",
+      "Id":"P-093",
+      "Id":"P-094",
+      "Id":"P-095",
+      "Id":"P-096", 
+      "Id":"P-097", 
+      "Id":"P-098", 
+      "Id":"P-099", 
+      "Id":"P-100"
+    ],
+    "Banned Sets":
+    [
+      "Id":"ST22", 
+      "Id":"OP12"
+    ]
+  ]
+  
+  
+  
+}
