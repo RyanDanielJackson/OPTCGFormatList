@@ -3,7 +3,7 @@
   "Formats":
   [
     "FormatName" : "Western",  
-    "Banned Cards":
+    "BannedCards":
     [
       "Id":"ST06-015",
       "Id":"ST10-001", 
