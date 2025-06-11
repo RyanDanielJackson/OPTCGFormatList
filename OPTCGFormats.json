@@ -1,12 +1,12 @@
 {
-  "Formats":"
+  "Formats":
   [
     "FormatName" : "Western",  
     "Banned Cards":
     [
-      "Id":"ST06-015", //Great Erruption
-      "Id":"ST10-001",// Trafalgar Law Leader
-      "Id":"EB01-059",// Kingdom Come
+      "Id":"ST06-015", # Great Erruption
+      "Id":"ST10-001", # Trafalgar Law Leader
+      "Id":"EB01-059", # Kingdom Come
       "Id":"OP02-024",
       "Id":"OP02-052",
       "Id":"OP02-117",
